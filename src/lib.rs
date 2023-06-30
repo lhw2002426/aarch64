@@ -44,7 +44,6 @@
 
 #![no_std]
 #![feature(llvm_asm)]
-#![feature(const_fn)]
 #![feature(core_intrinsics)]
 #![feature(custom_inner_attributes)]
 #![feature(asm)]
